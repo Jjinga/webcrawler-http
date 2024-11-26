@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "http trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jjinga/webcrawler-http.git#webcrawler-http"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jjinga/webcrawler-http/issues"
+  },
+  "homepage": "https://github.com/Jjinga/webcrawler-http/tree/webcrawler-http#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
